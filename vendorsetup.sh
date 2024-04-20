@@ -1,0 +1,1 @@
+git clone https://github.com/OnePlus-7-Series/vendor_oneplus_hotdog.git vendor/oneplus/hotdog --depth=1
